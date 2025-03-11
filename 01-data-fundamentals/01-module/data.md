@@ -27,3 +27,13 @@ Los datos pueden ser estructurados o no estructurados
 Datos estructurados: Son organizados en filas y columnas, como en hojas de cálculo o bases de datos SQL. Incluyen nombres, fechas, direcciones y números de tarjetas de crédito. Son fáciles de manipular y analizar.
 Datos no estructurados: No tienen un formato predefinido y pueden incluir imágenes, textos, publicaciones en redes sociales o registros médicos. Son más difíciles de procesar, pero pueden revelar información valiosa al analizarlos.
 Por ejemplo, las fotos de licencias de conducir son datos no estructurados, mientras que una tabla con nombres y números de licencia es estructurada. Aunque los datos no estructurados son más desafiantes de analizar, pueden ayudar a descubrir lo desconocido, como patrones en correos de clientes con informes de errores.
+
+============================================
+
+Base de datos 
+
+Una base de datos es una colección organizada de datos estructurados que facilita su almacenamiento y análisis. Generalmente, las bases de datos están organizadas como bases de datos relacionales, que consisten en varias tablas interconectadas. Cada tabla contiene datos específicos, y cuando los datos de una tabla se relacionan con los de otra (por ejemplo, propietarios en una tabla de nombres y propiedades en otra), se pueden vincular, creando una estructura organizada para facilitar el acceso y el análisis mediante consultas.
+
+============================================
+
+s
