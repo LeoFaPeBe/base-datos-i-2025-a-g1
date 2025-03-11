@@ -10,19 +10,20 @@ Objetivos de aprendizaje
 - Diferenciar entre datos cuantitativos y cualitativos
 
 =========================================
+
 ¿Por qué son importantes los datos?
 
 Los datos son un recurso valioso para empresas y organizaciones, ya que permiten mejorar operaciones, comprender a los clientes, reducir costos, aumentar ganancias e impulsar la innovación. Su uso no se limita a los negocios, también ayuda a resolver problemas globales en sectores como la salud, el medio ambiente y la seguridad. Los analistas de datos los recopilan, limpian y transforman para extraer información útil que facilite la toma de decisiones y la solución de problemas.
 
 ===========================================
+
 ¿Cuántos datos hay?
 
 Cada día, el mundo genera aproximadamente 2,5 trillones de bytes de datos, y esta cantidad sigue creciendo exponencialmente. En 2022, se registraron cifras impresionantes, como 3 mil millones de minutos de llamadas en Skype, 5 mil millones de videos y fotos compartidos en Snapchat y 333,2 mil millones de correos electrónicos enviados diariamente. Se estima que para 2025, la creación de datos alcanzará más de 180 zettabytes, impulsada por la digitalización y el crecimiento del trabajo y entretenimiento en línea.
 
 ============================================
-Los datos pueden ser estructurados o no estructurados
 
-Los datos pueden ser estructurados o no estructurados.
+Los datos pueden ser estructurados o no estructurados
 
 Datos estructurados: Son organizados en filas y columnas, como en hojas de cálculo o bases de datos SQL. Incluyen nombres, fechas, direcciones y números de tarjetas de crédito. Son fáciles de manipular y analizar.
 Datos no estructurados: No tienen un formato predefinido y pueden incluir imágenes, textos, publicaciones en redes sociales o registros médicos. Son más difíciles de procesar, pero pueden revelar información valiosa al analizarlos.
