@@ -59,4 +59,32 @@ Cuando la narrativa se une con los datos, ayuda a comprender el significado detr
 
 **Tipos de visualizaciones**
 
-Los analistas de datos utilizan gráficos específicos para visualizar datos cuantitativos y cualitativos. La image2 contiene gráficos comunes para visualizar estos dos tipos de datos. Los gráficos conceptuales pueden mostrar datos cuantitativos o cualitativos. Tómese un momento para estudiarlos.
+Los analistas de datos utilizan gráficos específicos para visualizar datos cuantitativos y cualitativos. La image2 contiene gráficos comunes para visualizar estos dos tipos de datos. Los gráficos conceptuales pueden mostrar datos cuantitativos o cualitativos.
+Los gráficos comunican diferentes significados, por lo que es fundamental elegir el más adecuado para representar la información. La imagen siguiente ilustra qué tipos de gráficos son más efectivos para visualizar diversas comparaciones de datos cuantitativos, como proporciones relativas, clasificaciones, tendencias a lo largo del tiempo, frecuencias y correlaciones.
+
+**GRAFICOS**
+
+***Grafico circular***
+
+Los gráficos circulares son representaciones estadísticas que se dividen en secciones para visualizar proporciones numéricas. La suma de todas las secciones debe equivaler al 100 %. Son especialmente útiles para mostrar la proporción relativa de un número reducido de elementos, permitiendo identificar fácilmente qué categoría es la más grande o tiene mayor influencia.
+
+***Grafico de barras***
+
+Los gráficos de barras son ideales para organizar y comparar una gran cantidad de categorías, analizar correlaciones y realizar estudios de antes y después. Se utilizan para visualizar clasificaciones y comparaciones, además de mostrar cambios a lo largo del tiempo de manera clara. 
+
+***Grafico de columnas***
+
+Los gráficos de columnas permiten visualizar la proporción relativa entre diferentes elementos, así como representar datos a lo largo del tiempo y su frecuencia. Su formato vertical facilita la interpretación de la información y, además, son efectivos para mostrar valores negativos.
+
+***Graficos de lineas***
+
+Los gráficos de líneas representan datos a lo largo del tiempo con una frecuencia establecida, generalmente en un formato continuo. Son ideales para rastrear variaciones en períodos tanto cortos como largos, lo que los hace especialmente útiles para identificar cambios sutiles y visualizar tendencias de manera efectiva.
+
+***Diagrama de dispersion***
+
+Los gráficos de dispersión representan puntos en un plano para visualizar la relación entre dos conjuntos de datos. Son útiles para mostrar grandes volúmenes de información, resaltar valores atípicos y detectar patrones o tendencias en los datos.
+
+
+Estos diversos tipos de gráficos son fundamentales en el repertorio de un analista de datos. Dependiendo del análisis que se lleve a cabo, existen múltiples programas y herramientas disponibles para crear estas visualizaciones de manera efectiva.
+
+=======================================================
