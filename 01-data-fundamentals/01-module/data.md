@@ -22,6 +22,7 @@ Los datos son un recurso valioso para empresas y organizaciones, ya que permiten
 Cada día, el mundo genera aproximadamente 2,5 trillones de bytes de datos, y esta cantidad sigue creciendo exponencialmente. En 2022, se registraron cifras impresionantes, como 3 mil millones de minutos de llamadas en Skype, 5 mil millones de videos y fotos compartidos en Snapchat y 333,2 mil millones de correos electrónicos enviados diariamente. Se estima que para 2025, la creación de datos alcanzará más de 180 zettabytes, impulsada por la digitalización y el crecimiento del trabajo y entretenimiento en línea.
 
 ============================================
+
 Los datos pueden ser estructurados o no estructurados
 
 Datos estructurados: Son organizados en filas y columnas, como en hojas de cálculo o bases de datos SQL. Incluyen nombres, fechas, direcciones y números de tarjetas de crédito. Son fáciles de manipular y analizar.
