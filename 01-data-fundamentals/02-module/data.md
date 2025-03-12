@@ -1,8 +1,8 @@
-**Introduccion**
+**Introducción**
 
 En este modulo aprenderemos sobre big data y sus caracteristicas, llamadas las 5V: Volumen, Variedad, Velocidad, Veracidad y Valor. 
 
-Objetivos
+**Objetivos**
 
 - Describe las 5V del big data
 

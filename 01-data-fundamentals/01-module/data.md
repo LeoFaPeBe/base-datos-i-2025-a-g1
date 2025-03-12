@@ -1,8 +1,8 @@
-**Introduccion**
+**Introducción**
 
 En este curso aprenderemos sobre la importancia de los datos en nuestra vida cotidiana, las formas y diferencias entre los datos. 
 
-Objetivos de aprendizaje
+**Objetivos**
 
 - Explicar la importancia de los datos en un mundo digital.
 - Diferenciar entre datos estructurados y no estructurados
