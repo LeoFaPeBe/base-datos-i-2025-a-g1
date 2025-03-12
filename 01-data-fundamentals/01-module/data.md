@@ -1,4 +1,4 @@
-**Introduuccion**
+**Introduccion**
 
 En este curso aprenderemos sobre la importancia de los datos en nuestra vida cotidiana, las formas y diferencias entre los datos. 
 
