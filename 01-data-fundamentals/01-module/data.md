@@ -35,5 +35,3 @@ Base de datos
 Una base de datos es una colección organizada de datos estructurados que facilita su almacenamiento y análisis. Generalmente, las bases de datos están organizadas como bases de datos relacionales, que consisten en varias tablas interconectadas. Cada tabla contiene datos específicos, y cuando los datos de una tabla se relacionan con los de otra (por ejemplo, propietarios en una tabla de nombres y propiedades en otra), se pueden vincular, creando una estructura organizada para facilitar el acceso y el análisis mediante consultas.
 
 ============================================
-
-s
