@@ -10,8 +10,8 @@ En este módulo aprenderemos sobre el escenario de su proyecto de ciencia de dat
 ==========================================================
 
 **Su proyecto de ciencia de datos**
-
-    El Departamento de Reclamaciones por Fraude de una compañía de seguros de autos enfrenta un aumento en el fraude debido a la implementación de plataformas en línea y móviles, lo que reduce el tiempo de detección manual. Como resultado, la empresa ha sufrido pérdidas millonarias.  
+  
+El Departamento de Reclamaciones por Fraude de una compañía de seguros de autos enfrenta un aumento en el fraude debido a la implementación de plataformas en línea y móviles, lo que reduce el tiempo de detección manual. Como resultado, la empresa ha sufrido pérdidas millonarias.
 
 El objetivo del proyecto es predecir el fraude y la actividad sospechosa para reducir estas pérdidas. Para lograrlo, se utilizará IBM Watson Studio y la herramienta de refinación de datos para:  
 - Aprovisionar el servicio Watson Studio y configurar un proyecto.  
