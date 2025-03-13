@@ -42,3 +42,11 @@ La ciencia de datos es un esfuerzo colaborativo que implica trabajar en equipo y
 **Escucha a DeShaun, que trabaja con datos**
 
 Luego escucha a DeShaun Bennett, científico de datos de IBM. DeShaun nos cuenta qué le atrajo de la ciencia de datos, su trayectoria profesional, un día en la vida de un científico de datos, consejos profesionales y mucho más. 
+
+*Ideas clave*  
+
+- El éxito profesional llega cuando disfruta de su trabajo y siente pasión por lo que hace.  
+- La rutina diaria de un científico de datos varía según el proyecto, pero siempre implica analizar datos para descubrir patrones y tomar decisiones informadas.  
+- Si está iniciando en este campo, DeShaun aconseja:  
+  - Tener interés por las matemáticas.  
+  - Estar dispuesto a enfrentar desafíos y aprender continuamente utilizando recursos y herramientas en línea.
